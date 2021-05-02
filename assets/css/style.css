@@ -1,0 +1,46 @@
+body {
+    margin : 0px;
+    padding : 0px;
+    }
+    .main {
+    margin : 5px ;
+    }
+
+    .box {
+    border : 2px solid #808080;
+    display:inline-block;
+    text-align : left;
+    box-sizing: border-box;
+    padding: 5px;
+    margin: -2px;
+    width: 25%;
+    height: 100px;
+    }
+
+  .texto {
+    text-align: justify;
+    display: block;
+    margin-top: 10px;
+    margin-left: 50px;
+    margin-right: 50px;;
+  }
+
+    .parrafo {
+        text-align: justify;
+    }
+
+    .desafio {
+        padding-left: 4rem;
+        padding-bottom: 2rem;
+    }
+
+    .navbar {
+        margin-top: -1em;
+        height: 120px;
+        width: 100%;
+        background-color: rgba(6, 87, 6, 0.829);
+        position:fixed;
+        font-weight: bold;
+
+    }
+
